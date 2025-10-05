@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39899A8A-9540-4715-83A3-43998E18DC2B}|ConsoleAppTesting\\ConsoleAppTesting.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\consoleapptesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39899A8A-9540-4715-83A3-43998E18DC2B}|ConsoleAppTesting\\ConsoleAppTesting.csproj|solutionrelative:consoleapptesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A36E8E-BF69-4F8C-87D6-ED6CAEDF8E4E}|DAL\\DAL.csproj|solutionrelative:dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\views\\user\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\user\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|c:\\users\\nirjhar.a.das\\downloads\\studentmanagementsystem\\studentwebapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D83D0B3-A8CC-46D2-B175-E5A67C293EAC}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StudentWebApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:00:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "StudentWebApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:00:42.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T16:05:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T15:17:16.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\User\\SingUp.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApp\\Views\\User\\SingUp.cshtml",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Views\\User\\SingUp.cshtml",
+              "RelativeToolTip": "StudentWebApp\\Views\\User\\SingUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T15:14:41.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Models\\StudentModel.cs",
+              "RelativeToolTip": "StudentWebApp\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:14:52.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Model\\Student.cs",
+              "RelativeToolTip": "DAL\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:14:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Repository\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:35:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\ConsoleAppTesting\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTesting\\Program.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\ConsoleAppTesting\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTesting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:30:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:10:38.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\nirjhar.a.das\\Downloads\\StudentManagementSystem\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:12:48.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
