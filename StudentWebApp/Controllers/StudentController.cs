@@ -161,5 +161,18 @@ namespace StudentWebApp.Controllers
 
             return File(Encoding.UTF8.GetBytes(csv.ToString()), "text/csv", filename);
         }
+        public IActionResult Language()
+        {
+            if (HttpContext.Session.GetString("Lang") == "null" || HttpContext.Session.GetString("Lang") == "eng")
+            {
+
+               HttpContext.Session.SetString("Lang", "bn");
+            }
+            else
+            {
+                HttpContext.Session.SetString("Lang", "eng");
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

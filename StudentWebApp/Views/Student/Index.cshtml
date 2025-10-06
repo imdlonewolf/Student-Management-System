@@ -1,7 +1,16 @@
 ﻿@model IEnumerable<StudentWebApp.Models.StudentModel>
-
 @{
-    ViewData["Title"] = "Index";
+    var lang = Context.Session.GetString("Lang");
+    var StudentId = lang == "eng" ? "StudentId" : "শিক্ষার্থীর আইডি ";
+    var StudentName = lang == "eng" ? "StudentName" : "নাম";
+    var StudentEmail = lang == "eng" ? "StudentEmail" : "ইমেল";
+    var StudentPhone = lang == "eng" ? "StudentPhone" : "ফোন";
+    var DOB = lang == "eng" ? "Date of Birth" : "জন্ম তারিখ";
+    var Courses = lang == "eng" ? "Courses" : "কোর্স";
+    var Label = lang == "eng" ? "List of Students" : "শিক্ষার্থীদের তালিকা";
+}
+@{
+    ViewData["Title"] = @Label;
 }
 
 <h1>Index</h1>
@@ -13,22 +22,22 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.StudentId)
+                @StudentId
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.StudentName)
+                @StudentName
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.StudentEmail)
+                @StudentEmail
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.StudentPhone)
+                  @StudentPhone
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DOB)
+                 @DOB
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Courses)
+                 @Courses
             </th>
             <th></th>
         </tr>

@@ -286,3 +286,4 @@ C:\Users\nirjhar.a.das\Downloads\StudentManagementSystem\StudentWebApp\bin\Debug
 C:\Users\nirjhar.a.das\Downloads\StudentManagementSystem\StudentWebApp\bin\Debug\net8.0\RBush.dll
 C:\Users\nirjhar.a.das\Downloads\StudentManagementSystem\StudentWebApp\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\nirjhar.a.das\Downloads\StudentManagementSystem\StudentWebApp\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\nirjhar.a.das\Downloads\StudentManagementSystem\StudentWebApp\obj\Debug\net8.0\StudentWebApp.sourcelink.json

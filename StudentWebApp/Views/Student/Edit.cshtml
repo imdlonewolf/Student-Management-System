@@ -1,8 +1,19 @@
 ﻿@model StudentWebApp.Models.StudentModel
-
+@* @model IEnumerable<StudentWebApp.Models.StudentModel> *@
 @{
-    ViewData["Title"] = "Edit";
+    var lang = Context.Session.GetString("Lang");
+    var StudentId = lang == "eng" ? "StudentId" : "শিক্ষার্থীর আইডি ";
+    var StudentName = lang == "eng" ? "StudentName" : "নাম";
+    var StudentEmail = lang == "eng" ? "StudentEmail" : "ইমেল";
+    var StudentPhone = lang == "eng" ? "StudentPhone" : "ফোন";
+    var DOB = lang == "eng" ? "Date of Birth" : "জন্ম তারিখ";
+    var Courses = lang == "eng" ? "Courses" : "কোর্স";
+    var Label = lang == "eng" ? "Edit" : "শিক্ষার্থীদের তালিকা";
 }
+@{
+    ViewData["Title"] = @Label;
+}
+
 
 <h1>Edit</h1>
 
@@ -13,7 +24,7 @@
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="StudentPhone" class="control-label"></label>
+                <label asp-for="StudentPhone" class="control-label">@StudentPhone</label>
                 <input asp-for="StudentPhone" class="form-control" />
                 <span asp-validation-for="StudentPhone" class="text-danger"></span>
             </div>

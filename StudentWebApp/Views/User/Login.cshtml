@@ -1,7 +1,14 @@
 ﻿@model StudentWebApp.Models.UserModel
-
+@using Microsoft.AspNetCore.Http
 @{
-    ViewData["Title"] = "Login";
+    var lang = Context.Session.GetString("Lang");
+    var passwordLabel = lang == "eng" ? "Password" : "পাসওয়ার্ড";
+    var emailLabel = lang == "eng" ? "EmailId" : "ইমেইল আইডি";
+    var loginLabel = lang == "eng" ? "Login" : "লগইন";
+    var singupLabel = lang == "eng" ? "Join Us" : "যোগ দিন";
+}
+@{
+    ViewData["Title"] = @loginLabel;
 }
 
 <h1>Login</h1>
@@ -16,17 +23,17 @@
         <form asp-action="Login">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="EmailId" class="control-label"></label>
+                <label asp-for="EmailId" class="control-label">@emailLabel</label>
                 <input asp-for="EmailId" class="form-control" />
                 <span asp-validation-for="EmailId" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Password" class="control-label"></label>
+                <label asp-for="Password" class="control-label">@passwordLabel</label>
                 <input asp-for="Password" class="form-control" />
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Login" class="btn btn-primary" />
+                <input type="submit" value=@loginLabel class="btn btn-primary" />
             </div>
         </form>
     </div>
