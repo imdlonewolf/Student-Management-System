@@ -9,11 +9,10 @@ A web-based **ASP.NET MVC application** to manage student records — including 
 - Export data to Excel (optional)  
 
 ## 🛠️ Technologies Used
-- ASP.NET MVC 5  
+- ASP.NET MVC 
 - C#  
 - Entity Framework  
 - SQL Server  
-- Bootstrap for UI  
 
 ## ⚙️ How to Run
 1. Clone this repository:
